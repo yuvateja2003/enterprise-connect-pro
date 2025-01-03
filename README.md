@@ -6,6 +6,10 @@ EnterpriseConnect Pro is a comprehensive communication tracking and management s
 
 EnterpriseConnect Pro ensures timely and consistent follow-ups by providing a centralized platform to log past interactions, plan future communications, and manage engagement schedules effectively.
 
+## Demo
+
+Check out the live demo of the application here: [EnterpriseConnect Pro Demo](https://kzmgt1fp0trmbzeb1yli.lite.vusercontent.net/)
+
 ## Features
 
 ### Dashboard
